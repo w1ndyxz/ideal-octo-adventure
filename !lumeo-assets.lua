@@ -1,0 +1,111 @@
+
+--[[
+
+    ! ВНИМАНИЕ !
+
+    ВИДЕО-ГАЙД - https://youtu.be/B1-C8kIwrFk
+
+    НЕ ИЗМЕНЯЙТЕ ПОРЯДОК В ПЕРЕМЕННЫХ "Library_Materials" и "Library_Names"
+    ПИШИТЕ КАСТОМНЫЕ МОДЕЛИ ТОЛЬКО В КОНЦЕ ЧТОБЫ НИЧЕГО НЕ СЛОМАЛОСЬ
+
+    ТАКЖЕ ЕСЛИ У ВАС В РАЗНЫХ "filepatch.txt" СОВПАДАЮТ ПУТИ
+    ТО ОДНА ИЗ МОДЕЛЕК БУДЕТ У ВАС КРАШИТЬ!!!
+]]--
+
+Library_Names = {
+    "Jumpsuit A",
+    "Jumpsuit B",
+    "Jumpsuit C",
+    "ELITE | Mr. Muhlik",
+    "ELITE | Prof. Shahmat",
+    "ELITE | Osiris",
+    "ELITE | Ground Rebel",
+    "FBI | Special Agent Ava",
+    "FBI | Syfers",
+    "FBI | Markus Delrow",
+    "FBI | Operator",
+    "FBI | Seal Team 6 Soldier",
+    "FBI | Two Times McCoy",
+    "FBI | Buckshot",
+    "FBI | 3rd Commando Company",
+    "FBI | Lt. Commander Ricksaw",
+    "FBI | Blueberries Buckshot",
+    "FBI | Two Times McCoy 2",
+    "FBI | Cmdr. Mae Dead Cold Jamison",
+    "FBI | 1st Lieutenant Farlow",
+    "FBI | John Van Healen Kask",
+    "FBI | Bio-Haz Specialist",
+    "FBI | Sergeant Bombson",
+    "FBI | Chem-Haz Specialist",
+    "SABRE | Maximus ",
+    "SABRE | Dragomir ",
+    "SABRE | The Doctor Romanov",
+    "SABRE | Rezan The Ready",
+    "SABRE | Blackwolf",
+    "SABRE | Rezan the Redshirt",
+    "SABRE | Dragomir 2",
+    "FBI | B Squadron Officer",
+    "PHOENIX | Soldier",
+    "PHOENIX | Enforcer",
+    "PHOENIX | Slingshot",
+    "PHOENIX | Street Soldier",
+    "PROF | Miami Darryl",
+    "PROF | Silent Darryl",
+    "PROF | Skullhead Darryl",
+    "PROF | Royale Darryl",
+    "PROF | Loudmouth Darryl",
+    "PROF | Safecracker Voltzmann",
+    "PROF | Little Kev",
+    "PROF | Number K",
+    "PROF | Getaway Sally",
+    -- Start: Custom Models
+}
+
+Library_Materials = {
+    "models/player/custom_player/legacy/tm_jumpsuit_varianta.mdl",
+    "models/player/custom_player/legacy/tm_jumpsuit_variantb.mdl",
+    "models/player/custom_player/legacy/tm_jumpsuit_variantc.mdl",
+    "models/player/custom_player/legacy/tm_leet_variantf.mdl",
+    "models/player/custom_player/legacy/tm_leet_varianti.mdl",
+    "models/player/custom_player/legacy/tm_leet_varianth.mdl",
+    "models/player/custom_player/legacy/tm_leet_variantg.mdl",
+    "models/player/custom_player/legacy/ctm_fbi_variantb.mdl",
+    "models/player/custom_player/legacy/ctm_fbi_varianth.mdl",
+    "models/player/custom_player/legacy/ctm_fbi_variantg.mdl",
+    "models/player/custom_player/legacy/ctm_fbi_variantf.mdl",
+    "models/player/custom_player/legacy/ctm_st6_variante.mdl",
+    "models/player/custom_player/legacy/ctm_st6_variantm.mdl",
+    "models/player/custom_player/legacy/ctm_st6_variantg.mdl",
+    "models/player/custom_player/legacy/ctm_st6_variantk.mdl",
+    "models/player/custom_player/legacy/ctm_st6_varianti.mdl",
+    "models/player/custom_player/legacy/ctm_st6_variantj.mdl",
+    "models/player/custom_player/legacy/ctm_st6_variantl.mdl",
+    "models/player/custom_player/legacy/ctm_swat_variante.mdl",
+    "models/player/custom_player/legacy/ctm_swat_variantf.mdl",
+    "models/player/custom_player/legacy/ctm_swat_variantg.mdl" ,
+    "models/player/custom_player/legacy/ctm_swat_varianth.mdl",
+    "models/player/custom_player/legacy/ctm_swat_varianti.mdl",
+    "models/player/custom_player/legacy/ctm_swat_variantj.mdl",
+    "models/player/custom_player/legacy/tm_balkan_varianti.mdl",
+    "models/player/custom_player/legacy/tm_balkan_variantf.mdl",
+    "models/player/custom_player/legacy/tm_balkan_varianth.mdl",
+    "models/player/custom_player/legacy/tm_balkan_variantg.mdl",
+    "models/player/custom_player/legacy/tm_balkan_variantj.mdl",
+    "models/player/custom_player/legacy/tm_balkan_variantk.mdl",
+    "models/player/custom_player/legacy/tm_balkan_variantl.mdl",
+    "models/player/custom_player/legacy/ctm_sas_variantf.mdl",
+    "models/player/custom_player/legacy/tm_phoenix_varianth.mdl",
+    "models/player/custom_player/legacy/tm_phoenix_variantf.mdl",
+    "models/player/custom_player/legacy/tm_phoenix_variantg.mdl",
+    "models/player/custom_player/legacy/tm_phoenix_varianti.mdl",
+    "models/player/custom_player/legacy/tm_professional_varf.mdl",
+    "models/player/custom_player/legacy/tm_professional_varf1.mdl",
+    "models/player/custom_player/legacy/tm_professional_varf2.mdl",
+    "models/player/custom_player/legacy/tm_professional_varf3.mdl",
+    "models/player/custom_player/legacy/tm_professional_varf4.mdl",
+    "models/player/custom_player/legacy/tm_professional_varg.mdl",
+    "models/player/custom_player/legacy/tm_professional_varh.mdl",
+    "models/player/custom_player/legacy/tm_professional_vari.mdl",
+    "models/player/custom_player/legacy/tm_professional_varj.mdl",
+    -- Start: Custom Models
+}
